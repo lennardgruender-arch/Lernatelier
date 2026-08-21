@@ -15,26 +15,33 @@
 > Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
 
 ### Generelle Ziele
-> Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
+Programieren in Csharp soweit können das man ein eigenes Spiel Programieren kann 
+Modularbeiten die ich nicht im Unterricht gemacht habe nach hollen.
+einen eigenen Taktgeber Programieren.
+
 
 ## Tagesplanungen
 
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
+Modularbeiten fertig machen vom Modul 413 und 319
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+1. C#‑Grundlagen sicher anwenden
+ 2. Programmabläufe planen
+  
 
 (Heute habe ich... (50-100 Wörter))
 
 
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
+TAktgeber Project gerüsst machen erstellen und anfangen die Teile der hardware zusammenzusuchen 
+Funktionierender Taktgeber
+Benutzeroberfläche
+Erweiterungen
+Ich kann den Taktgeber modular aufbauen (eigene Klassen).
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+Ich kann verschiedene Intervalle programmierbar machen.
 
 (Heute habe ich... (50-100 Wörter))
 
