@@ -62,6 +62,7 @@ Ich kann verschiedene Intervalle programmierbar machen.
 (Heute habe ich... (50-100 Wörter))
 TAktgeber Project gerüsst machen erstellen und anfangen die Teile der hardware zusammenzusuchen 
 Funktionierender Taktgeber porgrammieren
+das habe ich alles erreicht und bin jetzt dran die Themen in ein Word doku geschrieben
 
 
 ## Planung .09.2026
