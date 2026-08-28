@@ -45,12 +45,13 @@ Ich kann den Taktgeber modular aufbauen (eigene Klassen).
 
 Ich kann verschiedene Intervalle programmierbar machen.
 
-(Heute habe ich... (50-100 Wörter))
+(Heute habe ich ich die Module soweit wie sein müssten gemacht in der modulen 431 und 319 . (50-100 Wörter))
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
 
 ### Planung 28.08.2026
+Modularbeiten fertig machen vom Modul 413 und 319
 3 bis 5 klar messbare Arbeitspakete.
 TAktgeber Project gerüsst machen erstellen und anfangen die Teile der hardware zusammenzusuchen 
 Funktionierender Taktgeber
@@ -63,6 +64,17 @@ Ich kann verschiedene Intervalle programmierbar machen.
 (Heute habe ich... (50-100 Wörter))
 TAktgeber Project gerüsst machen erstellen und anfangen die Teile der hardware zusammenzusuchen 
 Funktionierender Taktgeber porgrammieren
+
+
+## Planung .09.2026
+3 bis 5 klar messbare Arbeitspakete.
+TAktgeber Project gerüsst machen erstellen und anfangen die Teile der hardware zusammenzusuchen 
+Funktionierender Taktgeber
+Benutzeroberfläche
+Erweiterungen
+Ich kann den Taktgeber modular aufbauen (eigene Klassen).
+
+Ich kann verschiedene Intervalle programmierbar machen.
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
