@@ -32,6 +32,8 @@ Modularbeiten fertig machen vom Modul 413 und 319
 
 (Heute habe ich... (50-100 Wörter))
 
+1. C#‑Grundlagen sicher anwenden
+ 2. Programmabläufe planen
 
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
@@ -44,6 +46,23 @@ Ich kann den Taktgeber modular aufbauen (eigene Klassen).
 Ich kann verschiedene Intervalle programmierbar machen.
 
 (Heute habe ich... (50-100 Wörter))
+
+## Lernperiode Reflexion
+(In dieser Lernperiode habe ich... (100-150 Wörter))
+
+### Planung 28.08.2026
+3 bis 5 klar messbare Arbeitspakete.
+TAktgeber Project gerüsst machen erstellen und anfangen die Teile der hardware zusammenzusuchen 
+Funktionierender Taktgeber
+Benutzeroberfläche
+Erweiterungen
+Ich kann den Taktgeber modular aufbauen (eigene Klassen).
+
+Ich kann verschiedene Intervalle programmierbar machen.
+
+(Heute habe ich... (50-100 Wörter))
+TAktgeber Project gerüsst machen erstellen und anfangen die Teile der hardware zusammenzusuchen 
+Funktionierender Taktgeber porgrammieren
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
