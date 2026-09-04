@@ -65,7 +65,7 @@ Funktionierender Taktgeber porgrammieren
 das habe ich alles erreicht und bin jetzt dran die Themen in ein Word doku geschrieben
 
 
-## Planung .09.2026
+## Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 TAktgeber Project gerüsst machen erstellen und anfangen die Teile der hardware zusammenzusuchen 
 Funktionierender Taktgeber
@@ -74,6 +74,12 @@ Erweiterungen
 Ich kann den Taktgeber modular aufbauen (eigene Klassen).
 
 Ich kann verschiedene Intervalle programmierbar machen.
+## Planung 04.09.2026
+3 bis 5 klar messbare Arbeitspakete.
 
+ich mache oder Lerne das Arduino IDE zu Programieren kann 
+## Planung 11.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+ich mache oder Lerne das Arduino IDE zu Programieren kann aber jetzt im bezug auf dem TAktgeber
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
