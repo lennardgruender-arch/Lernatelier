@@ -74,6 +74,8 @@ Erweiterungen
 Ich kann den Taktgeber modular aufbauen (eigene Klassen).
 
 Ich kann verschiedene Intervalle programmierbar machen.
+
+ich habe heute den Modular Aufbau  gemacht und die Benutzeroberfläche
 ## Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
@@ -81,5 +83,18 @@ ich mache oder Lerne das Arduino IDE zu Programieren kann
 ## Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 ich mache oder Lerne das Arduino IDE zu Programieren kann aber jetzt im bezug auf dem TAktgeber
+## Planung 11.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+ich mache oder Lerne das Arduino IDE zu Programieren kann 
+ich habe heute die Modul arbeit fertig gemacht
+## Planung 18.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+ich mache oder Lerne das Arduino IDE zu Programieren kann 
+und Mission 7 und Experten ziel fertig machen 
+
+ 
+
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
