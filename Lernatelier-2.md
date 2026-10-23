@@ -22,7 +22,7 @@ Diese Blöcke können Sie entfernen oder zur Orientierung stehen lassen.
 - Zeitraum: tt.mm.jjjj bis tt.mm.jjjj
 
 ## Grob-Planung
-
+Nach hollen vom normalen BBB Unterricht
 ### Noten
 <!--
 Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark;
@@ -34,7 +34,7 @@ in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 ### Veränderungen
 <!--
 Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
--->
+-->Konzentrirter arbeiten und regelmässiger Arbeiten
 
 ...Ihr Text...
 
@@ -43,7 +43,7 @@ Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
 Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
 Verlinken Sie zu den GitHub Repos Ihrer Projekte.
 (Können Sie später nach und nach einfügen.)
--->
+-->Nachhollen von den Sachen aus dem Normalen Unterricht
 
 ...Ihr Text...
 
@@ -73,10 +73,12 @@ Markieren Sie beendete Arbeitspakete mit einem x.
 Beispiele:
 - [ ] noch nicht erledigte Aufgabe
 - [x] erledigte Aufgabe
--->
+-->Aufgabe Dokumentation 431 erstellen 
+Aufgaben Presentation erstellen 
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] ...Ihr Text...Aufgaben Presentation erstellen 
+- [ ] ...Ihr Text...Aufgabe Dokumentation 431 erstellen
+- [ ] Programiern von den Knöpfen beim Taktgeber
 - [ ] ...Ihr Text...
 
 
