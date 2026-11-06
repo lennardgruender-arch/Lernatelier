@@ -73,7 +73,7 @@ Markieren Sie beendete Arbeitspakete mit einem x.
 Beispiele:
 - [ ] noch nicht erledigte Aufgabe
 - [x] erledigte Aufgabe
--->Aufgabe Dokumentation 431 erstellen 
+-->Aufgabe Dokumentation 162 erstellen 
 Aufgaben Presentation erstellen 
 
 - [ ] ...Ihr Text...Aufgaben Presentation erstellen 
@@ -90,13 +90,14 @@ Markieren Sie beendete Arbeitspakete mit einem x.
 Beispiele:
 - [ ] noch nicht erledigte Aufgabe
 - [x] erledigte Aufgabe
--->Aufgabe Dokumentation 431 erstellen 
+-->Aufgabe Dokumentation  erstellen 
 Aufgaben Presentation erstellen 
 
+
 - [ ] ...Ihr Text...Aufgaben Presentation erstellen 
-- [ ] ...Ihr Text...Aufgabe Dokumentation 431 erstellen
+- [ ] ...Ihr Text...Aufgabe Dokumentation 320 erstellen
 - [ ] Programiern von den Knöpfen beim Taktgeber
-- [ ] ...Ihr Text...
+- [ ] the farmer wass replaced gespielt
 
 
 
@@ -106,7 +107,8 @@ Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
 und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
 Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
--->
+-->  Ich habe the farmer was repalce gespieltr und habe eben grundsätze des programieren gelernt 
+und ich hqabe alle Aufgaben gemacht.
 
 ...Ihr Text...
 
