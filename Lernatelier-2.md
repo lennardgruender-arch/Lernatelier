@@ -81,6 +81,24 @@ Aufgaben Presentation erstellen
 - [ ] Programiern von den Knöpfen beim Taktgeber
 - [ ] ...Ihr Text...
 
+### Planung tt.mm.jjjj
+<!--
+Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
+Umfang: ca. 30 - 60 Minuten je Arbeitspaket
+Markieren Sie beendete Arbeitspakete mit einem x.
+
+Beispiele:
+- [ ] noch nicht erledigte Aufgabe
+- [x] erledigte Aufgabe
+-->Aufgabe Dokumentation 431 erstellen 
+Aufgaben Presentation erstellen 
+
+- [ ] ...Ihr Text...Aufgaben Presentation erstellen 
+- [ ] ...Ihr Text...Aufgabe Dokumentation 431 erstellen
+- [ ] Programiern von den Knöpfen beim Taktgeber
+- [ ] ...Ihr Text...
+
+
 
 #### Tagesreflexion
 <!--
